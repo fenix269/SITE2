@@ -1,0 +1,3 @@
+document.getElementById('changeMessageBtn').addEventListener('click', function() {
+    document.getElementById('message').textContent = 'Повідомлення було змінено!';
+});
